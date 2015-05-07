@@ -92,6 +92,7 @@ Rated sites. The score goes from 1 to 5. 1 is good, 5 is bad.
 | minecraft-soul ru                  |      1      |        1       |   5   |       |
 | minecraft-tools org                |      1      |        5       |   5   |       |
 | minecraft-x net                    |      1      |        5       |   3   |       |
+| minecraft-wiki net                 |      1      |        1       |   1   | **Malware alert!** |            
 | minecraft12 com                    |      5      |        1       |   5   |       |
 | minecraft15 my1 ru                 |      4      |        5       |   2   |       |
 | minecraft70 ru                     |      4      |        5       |   4   |       |
